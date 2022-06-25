@@ -1,7 +1,7 @@
-# Repositório do desafio da DIO sobre GIT e GITHUB
-Desafio de projeto sobre GIt e GIthub
+# Desafio da DIO sobre GIT e GITHUB
+DRepositório do  desafio de projeto sobre GIt e GIthub
 
-LINKS UTEIS
+#LINKS UTEIS
 [sintaxe básica de arquivos markdown] (https://www.markdownguide.org/ )
 
 
